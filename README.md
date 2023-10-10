@@ -1,6 +1,6 @@
     *== варианты загрузки драйвера==*
      1 вариант три вида загрузки страницы normal по умолчанию, none - ничего не ждет , eager загружает только DOM- дерево
-    * chrom_options.page_load_strategy = 'normal'*
+    *chrom_options.page_load_strategy = 'normal'*
     
      с установленным размером
     * chrom_options.add_argument("--window-size=1500, 900")*
